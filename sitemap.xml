@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemaps/0.9 http://www.sitemaps.org/schemas/sitemaps/sitemap.xsd"
+>
+	<url>
+		<loc>http://www.websvn.info/</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-1-0-released.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-1-coming-up-soon.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-2-0-released.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-2-1-released.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-3-0-coming-soon.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-3-0-released.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-3-1-released.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-3-2-released.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-2-3-3-released.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/news/websvn-has-a-new-home.html</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/features/</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/contribute/</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/download/</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/links/</loc>
+	</url>
+	<url>
+		<loc>http://www.websvn.info/imprint.html</loc>
+	</url>
+</urlset>

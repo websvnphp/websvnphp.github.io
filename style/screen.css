@@ -1,0 +1,144 @@
+body {
+	background: #eee url('../img/bg-body.png') top left repeat-x;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 10pt;
+	color: #666;
+}
+
+#frame {
+	width: 900px;
+	margin: 10px auto 10px;
+	padding: 14px 28px;
+	background-color: #fff;
+}
+
+.header {
+	padding: 10px 0;
+	border-bottom: 1px solid #666;
+	height: 75px;
+}
+.header img {
+	float: left;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+h1 {
+	padding: 33px 0 10px 345px;
+	margin: 0;
+}
+h2 {
+	margin: 0;
+	padding: 10px 0;
+	border-bottom: 1px solid #666;
+}
+h3 {
+	margin: 0;
+	padding: 10px 0 5px;
+}
+p {
+	margin: 5px 0 5px;
+}
+
+a, a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	background-color: khaki;
+}
+
+.content ul {
+	list-style-image: url('../img/icons/bullet_green.png');
+	padding: 0;
+	margin: 0 0 0 10px;
+}
+.content ul li {
+	padding: 0;
+	margin: 0 0 0 20px;
+}
+
+.misc {
+	width: 200px;
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin-top: 22px;
+}
+
+.misc ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.misc ul li {
+  padding: 3px 0 5px 10px;
+  border-top:1px dotted #666;
+
+}
+
+#ads {
+	margin-top: 30px;
+	text-align: center;
+}
+
+#lnk_home a {
+	background: url('../img/icons/house.png') top left no-repeat;
+	padding-left: 22px;
+}
+#lnk_news a {
+	background: url('../img/icons/newspaper.png') top left no-repeat;
+	padding-left: 22px;
+}
+#lnk_features a {
+	background: url('../img/icons/color_swatch.png') top left no-repeat;
+	padding-left: 22px;
+}
+#lnk_download a {
+	background: url('../img/icons/bullet_down.png') top left no-repeat;
+	padding-left: 22px;
+}
+#lnk_contribute a {
+	background: url('../img/icons/user_comment.png') top left no-repeat;
+	padding-left: 22px;
+}
+#lnk_links a {
+	background: url('../img/icons/world_link.png') top left no-repeat;
+	padding-left: 22px;
+}
+
+.content {
+	padding: 0;
+	margin: 0;
+	margin-left: 220px;
+	margin-top: 22px;
+}
+
+.code {
+	border: 1px dotted #666;
+	background-color: #f7f7f7;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 5px;
+}
+
+em {
+	font-style: normal;
+	color: #e25f53;
+}
+
+.footer {
+	clear: both;
+
+	width: 900px;
+	margin: 10px auto 10px;
+
+	font-size: 70%;
+	text-align: center;
+}

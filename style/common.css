@@ -1,0 +1,21 @@
+html, body, table, input, textarea {
+	font-family: 'Trebuchet MS', Verdana, Arial, sans-serif;
+	line-height: 150%;
+}
+
+h1, h2, h3 { font-weight: normal; }
+h1 { font-size: 1.7em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.0em; }
+
+a:link, a:visited {
+	outline: none !important;
+}
+
+img {
+	border: none;
+}
+
+.clearfix {
+    clear: both;
+}

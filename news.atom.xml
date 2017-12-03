@@ -7,16 +7,16 @@
 		<name>WebSVN</name>
 		<uri>http://www.websvn.info</uri>
 	</author>
-	<link rel="alternate" href="http://www.websvn.info/news/index.html" />
-	<link rel="self" href="http://www.websvn.info/news.atom.xml" />
-	<icon>http://www.websvn.info/favicon.ico</icon>
-	<logo>http://www.websvn.info/img/logo-websvn.png</logo>
+	<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/index.html" />
+	<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
+	<icon>https://websvnphp.github.io/websvnphp.github.io/favicon.ico</icon>
+	<logo>https://websvnphp.github.io/websvnphp.github.io/img/logo-websvn.png</logo>
 	<subtitle xml:lang="en-en">Stay tuned for WebSVN news and updates</subtitle>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-3-3-released.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-3-released.html</id>
 		<title xml:lang="en-en">WebSVN 2.3.3 released!</title>
 		<updated>2011-06-27T00:00:00+02:00</updated>
-		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.3.3 is a minor release which brings several bug fixes (including a security fix for Windows) but also improvements for GeSHi highlighting. As always it is available from <a href="http://www.websvn.info/download/index.html">www.websvn.info/download/</a></p>
+		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.3.3 is a minor release which brings several bug fixes (including a security fix for Windows) but also improvements for GeSHi highlighting. As always it is available from <a href="https://websvnphp.github.io/websvnphp.github.io/download/index.html">websvnphp.github.io/websvnphp.github.io/download/</a></p>
 <p>Since this release fixes a security issue under Windows in combination with enabled downloads all Windows user are highly recommended to update rather sooner than later!</p>
 <p>With the latest version of GeSHi the highlighting problems due to complex regular expressions have been reduced significantly.</p>
 <p>Thank you all for your sent comments, feedback and especially the contributed patches.</p>
@@ -37,16 +37,16 @@
 <li>Fixed keeping flag to regard/ignore whitespaces in diff when moving to previous/next/youngest revision</li>
 <li>Updated translation: Swedish (#320)</li>
 </ul></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-3-3-released.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-3-released.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">WebSVN 2.3.3 is a minor release which brings several bug fixes (including a security fix for Windows) but also improvements for GeSHi highlighting.</summary>
 		<published>2011-06-27T00:00:00+02:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-3-2-released.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-2-released.html</id>
 		<title xml:lang="en-en">WebSVN 2.3.2 released!</title>
 		<updated>2010-12-10T00:00:00+01:00</updated>
-		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.3.2 is a minor release which brings several bug fixes but also improvements for browsing deleted items and handling modified whitespaces and different newlines.<br />As always it is available from <a href="http://www.websvn.info/download/index.html">www.websvn.info/download/</a></p>
+		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.3.2 is a minor release which brings several bug fixes but also improvements for browsing deleted items and handling modified whitespaces and different newlines.<br />As always it is available from <a href="https://websvnphp.github.io/websvnphp.github.io/download/index.html">websvnphp.github.io/websvnphp.github.io/download/</a></p>
 <p>Since the last patch version a lot of feedback was provided by the community.<br />Thank you all for your comments and especially the contributed patches.</p>
 <p>Two very nice feature enhancements are the optional ignoring of whitespace and different newline characters and improvements for browsing deleted items.</p>
 <p>A - far from being complete - list of changes:</p>
@@ -67,16 +67,16 @@
 </ul>
 <ul>
 </ul></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-3-2-released.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-2-released.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">WebSVN 2.3.2 is a minor release which brings several bug fixes but also improvements for browsing deleted items and handling modified whitespaces and different newlines.</summary>
 		<published>2010-12-10T00:00:00+01:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-3-1-released.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-1-released.html</id>
 		<title xml:lang="en-en">WebSVN 2.3.1 released!</title>
 		<updated>2010-04-20T00:00:00+02:00</updated>
-		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.3.1 is a minor release which brings many small (or bigger) improvements and bug fixes in different areas.<br />As always it is available from <a href="http://www.websvn.info/download/">www.websvn.info/download/</a></p>
+		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.3.1 is a minor release which brings many small (or bigger) improvements and bug fixes in different areas.<br />As always it is available from <a href="https://websvnphp.github.io/websvnphp.github.io/download/">websvnphp.github.io/websvnphp.github.io/download/</a></p>
 <p>Since the last major version a lot of feedback was provided by the community.<br />Thank you all for your comments and especially the contributed patches.</p>
 <p>One very nice feature enhancement is the in-line highlighting of diff, which improves readability clearly.</p>
 <p>A - far from being complete - list of changes:</p>
@@ -94,82 +94,82 @@
 <li>Updated translations: Hindi, Marathi, Slovenian</li>
 <li>Fixed issues: 98, 235, 250, 260, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 273, 274, 275, 276, 278, 280, 283, 284, 285, 287, 288, 290</li>
 </ul></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-3-1-released.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-1-released.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">WebSVN 2.3.1 is a minor release which brings many small (or bigger) improvements and bug fixes in different areas.</summary>
 		<published>2010-04-20T00:00:00+02:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-3-0-released.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-0-released.html</id>
 		<title xml:lang="en-en">WebSVN 2.3.0 released!</title>
 		<updated>2009-12-07T00:00:00+01:00</updated>
-		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.3.0 has been released eight months after the last minor version.<br />It is available from <a href="http://www.websvn.info/download/index.html">www.websvn.info/download/</a></p><p>This
+		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.3.0 has been released eight months after the last minor version.<br />It is available from <a href="https://websvnphp.github.io/websvnphp.github.io/download/index.html">websvnphp.github.io/websvnphp.github.io/download/</a></p><p>This
 release offers some new features - especially handling moved, renamed and deleted items - and fixes many bugs reported by the
 community since the previous release. Thank you all for your feedback
 and contributed patches.</p><p>When upgrading you should have a look to
 the example configuration in include/distconfig.php and recreate your config based on this template. Several configuration options have been added, but others have been altered or removed - take a look what might be useful for you.</p><p>Especially take a look at the new template Elegant, which has been contributed by Quinn Taylor. With the new release switching between templates becomes much easier as every user can dynamically switch between all available templates.</p><p>A short list of changes - far from being complete:</p><ul><li>Better support for moved, renamed and deleted items.</li><li>Improved handling of errors, show useful messages without exposing auth data.</li><li>Improved handling of different character encodings. Replaced manual per-repository configuration with automatic handling (using either <i>multibyte string</i> or <i>iconv</i> extension).</li><li>Modified various things in templates (see doc/templates.html). Added new theme called <i>Elegant</i>. Added combobox to select template on a per-user base.</li><li>Fixed plain file downloading. Added http header 500 for errors with downloading archives/files.</li><li>Updated rss generation.</li><li>Updated french translation.</li><li>Fixed issues: 64, 84, 151, 155, 236, 240, 242, 243, 244, 245, 246, 247, 248,<br />  251, 253, 254, 255, 256, 257, 259</li></ul></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-3-0-released.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-0-released.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">WebSVN 2.3.0 has been released eight months after the last minor release. It uses PEG-revisions thoroughly to support viewing moved, renamed and deleted items.</summary>
 		<published>2009-12-07T00:00:00+01:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-3-0-coming-soon.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-0-coming-soon.html</id>
 		<title xml:lang="en-en">Next version of WebSVN is coming soon</title>
 		<updated>2009-10-03T00:00:00+02:00</updated>
 		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Since the last release of WebSVN many changes have been made on the internal structure - especially the usage of PEG-revisions.<br />This was done in particular to address many issues related to move/renamed/deleted files and folders.<br /><br />Another improvement is the better error reporting.<br />In case of configuration problems or other errors the printed messages are much more helpful.<br /><br />Additionally a new theme - called &amp;quot;elegant&amp;quot; - was designed and integrated - thanks to Quinn. You can easily try it out under <a href="http://trunk.websvn.info/" target="_blank">http://trunk.websvn.info</a>.</p><p><br />In order to find remaining issues please test the current development version of WebSVN.<br />It is available from the SVN trunk - so check it out, use it with your repositories and please report back any issues.<br />We do appreciate any feedback - especially for cases where the history of moved/renamed/deleted entries is not yet handled correctly.</p></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-3-0-coming-soon.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-3-0-coming-soon.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">Since the last release of WebSVN many changes have been made on the internal structure - especially the usage of PEG-revisions.</summary>
 		<published>2009-10-03T00:00:00+02:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-2-1-released.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-2-1-released.html</id>
 		<title xml:lang="en-en">WebSVN 2.2.1 released!</title>
 		<updated>2009-05-11T00:00:00+02:00</updated>
-		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.2.1 has been released to fix some issues of the previous version.<br />It is available from <a href="http://www.websvn.info/download/index.html">www.websvn.info/download/</a></p><p>This release fixes an issue when using the gz-extension to compress archives instead of the default php-based implementation. Additionally the output in case of an error with the svn command line client has been improved. </p><p>A list of issues which have been addressed - but not a complete one:<br /><a href="http://websvn.tigris.org/issues/show_bug.cgi?id=212" target="_blank">212</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=213" target="_blank">213</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=214" target="_blank">214</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=215" target="_blank">215</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=216" target="_blank">216</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=217" target="_blank">217</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=219" target="_blank">219</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=222" target="_blank">222</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=223" target="_blank">223</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=224" target="_blank">224</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=225" target="_blank">225</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=227" target="_blank">227</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=228" target="_blank">228</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=229" target="_blank">229</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=230" target="_blank">230</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=231" target="_blank">231</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=232" target="_blank">232</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=234" target="_blank">234</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=237" target="_blank">237</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=238" target="_blank">238</a></p></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-2-1-released.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.2.1 has been released to fix some issues of the previous version.<br />It is available from <a href="https://websvnphp.github.io/websvnphp.github.io/download/index.html">websvnphp.github.io/websvnphp.github.io/download/</a></p><p>This release fixes an issue when using the gz-extension to compress archives instead of the default php-based implementation. Additionally the output in case of an error with the svn command line client has been improved. </p><p>A list of issues which have been addressed - but not a complete one:<br /><a href="http://websvn.tigris.org/issues/show_bug.cgi?id=212" target="_blank">212</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=213" target="_blank">213</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=214" target="_blank">214</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=215" target="_blank">215</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=216" target="_blank">216</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=217" target="_blank">217</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=219" target="_blank">219</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=222" target="_blank">222</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=223" target="_blank">223</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=224" target="_blank">224</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=225" target="_blank">225</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=227" target="_blank">227</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=228" target="_blank">228</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=229" target="_blank">229</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=230" target="_blank">230</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=231" target="_blank">231</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=232" target="_blank">232</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=234" target="_blank">234</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=237" target="_blank">237</a>, <a href="http://websvn.tigris.org/issues/show_bug.cgi?id=238" target="_blank">238</a></p></div></content>
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-2-1-released.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">WebSVN 2.2.1 has been released to fix some issues of the previous version.</summary>
 		<published>2009-05-11T00:00:00+02:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-2-0-released.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-2-0-released.html</id>
 		<title xml:lang="en-en">WebSVN 2.2.0 released!</title>
 		<updated>2009-04-11T00:00:00+02:00</updated>
-		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.2.0 has been released four months after the previous version.<br />It is available from <a href="http://www.websvn.info/download/index.html">www.websvn.info/download/</a></p><p>This release offers some new features and fixes many bugs reported by the community since the previous release. Thank you all for your feedback and contributed patches.</p><p>When upgrading you should have a look to the example configuration in include/distconfig.php to notice the additional configuation options which might be useful for you.</p><p>A short list of changes - far from being complete:</p><ul><li>Fixed many cases when files or folders have been moved/renamed/deleted</li><li>Removed dependencies to external commands - using PEAR Archive_Tar, PEAR Text_Diff, gz extension and touch function instead</li><li>Improved scalability of parent path handling</li><li>Added support for upcoming PHP 5.3</li><li>Added possiblity to ignore whitespace on compare and diff</li><li>Added support for aliases in access file and handle continuation lines correctly</li></ul></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-2-0-released.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.2.0 has been released four months after the previous version.<br />It is available from <a href="https://websvnphp.github.io/websvnphp.github.io/download/index.html">websvnphp.github.io/websvnphp.github.io/download/</a></p><p>This release offers some new features and fixes many bugs reported by the community since the previous release. Thank you all for your feedback and contributed patches.</p><p>When upgrading you should have a look to the example configuration in include/distconfig.php to notice the additional configuation options which might be useful for you.</p><p>A short list of changes - far from being complete:</p><ul><li>Fixed many cases when files or folders have been moved/renamed/deleted</li><li>Removed dependencies to external commands - using PEAR Archive_Tar, PEAR Text_Diff, gz extension and touch function instead</li><li>Improved scalability of parent path handling</li><li>Added support for upcoming PHP 5.3</li><li>Added possiblity to ignore whitespace on compare and diff</li><li>Added support for aliases in access file and handle continuation lines correctly</li></ul></div></content>
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-2-0-released.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">WebSVN 2.2.0 has been released four months after the previous version.</summary>
 		<published>2009-04-11T00:00:00+02:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-1-0-released.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-1-0-released.html</id>
 		<title xml:lang="en-en">WebSVN 2.1.0 released!</title>
 		<updated>2008-12-02T00:00:00+01:00</updated>
-		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.1.0 has been released after a long development break.<br />It is available from <a href="http://www.websvn.info/download/">www.websvn.info/download/</a></p><p>This release offers some new features and also covers a few serious security issues so all users are encouraged to update soon.</p><p>When upgrading you should have a look to the example configuration in include/distconfig.php to notice the additional configuation options which might be useful for you.</p><p>A short list of changes - far from being complete:</p><ul><li>Fixed: Several security issues, XSS vulnarabilities and information disclosures</li><li>Fixed: Many issues reported by the community</li><li>Added: Added GeSHi for code highlighting</li><li>Added: New translations (hungarian, indonesian, slovak, uzbek)</li><li>Changed: Separated modified files and directory listing view</li></ul></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-1-0-released.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>WebSVN 2.1.0 has been released after a long development break.<br />It is available from <a href="https://websvnphp.github.io/websvnphp.github.io/download/">websvnphp.github.io/websvnphp.github.io/download/</a></p><p>This release offers some new features and also covers a few serious security issues so all users are encouraged to update soon.</p><p>When upgrading you should have a look to the example configuration in include/distconfig.php to notice the additional configuation options which might be useful for you.</p><p>A short list of changes - far from being complete:</p><ul><li>Fixed: Several security issues, XSS vulnarabilities and information disclosures</li><li>Fixed: Many issues reported by the community</li><li>Added: Added GeSHi for code highlighting</li><li>Added: New translations (hungarian, indonesian, slovak, uzbek)</li><li>Changed: Separated modified files and directory listing view</li></ul></div></content>
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-1-0-released.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">WebSVN 2.1.0 has been released after a long development break.</summary>
 		<published>2008-12-02T00:00:00+01:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-2-1-coming-up-soon.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-1-coming-up-soon.html</id>
 		<title xml:lang="en-en">WebSVN 2.1 is coming up soon</title>
 		<updated>2008-11-30T00:00:00+01:00</updated>
 		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>After a long development break, the next stable version of WebSVN is coming up soon. Thank you all for submiting issues or sending patches!</p><p>This release will cover some serious security issues so all users are encouraged to update soon. </p></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-2-1-coming-up-soon.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-2-1-coming-up-soon.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">After a long development break, the next stable version of WebSVN is coming up soon. This release will cover some serious security issues so all users are encouraged to update soon.</summary>
 		<published>2008-11-30T00:00:00+01:00</published>
 	</entry>
 	<entry>
-		<id>http://www.websvn.info/news/websvn-has-a-new-home.html</id>
+		<id>https://websvnphp.github.io/websvnphp.github.io/news/websvn-has-a-new-home.html</id>
 		<title xml:lang="en-en">WebSVN has a new home</title>
 		<updated>2008-11-07T00:00:00+01:00</updated>
 		<content xml:lang="en-en" type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>The official website of WebSVN has moved to www.websvn.info! The new website will contain more information about the project and will be used for a better dialog with the users of WebSVN. </p><p>In addition to the website, we are working on a new version of WebSVN, which will contain all patches and fix some security issue. So stay tuned for more news! </p></div></content>
-		<link rel="alternate" href="http://www.websvn.info/news/websvn-has-a-new-home.html" />
-		<link rel="self" href="http://www.websvn.info/news.atom.xml" />
+		<link rel="alternate" href="https://websvnphp.github.io/websvnphp.github.io/news/websvn-has-a-new-home.html" />
+		<link rel="self" href="https://websvnphp.github.io/websvnphp.github.io/news.atom.xml" />
 		<summary xml:lang="en-en">The official website of WebSVN has moved to www.websvn.info!</summary>
 		<published>2008-11-07T00:00:00+01:00</published>
 	</entry>

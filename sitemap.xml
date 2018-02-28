@@ -48,6 +48,9 @@
 	<url>
 		<loc>https://websvnphp.github.io/download/</loc>
 	</url>
+		<url>
+		<loc>https://websvnphp.github.io/docs/</loc>
+	</url>
 	<url>
 		<loc>https://websvnphp.github.io/links/</loc>
 	</url>

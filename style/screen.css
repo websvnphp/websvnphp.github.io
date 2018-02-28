@@ -104,6 +104,10 @@ a:hover, a:active {
 	background: url('../img/icons/bullet_down.png') top left no-repeat;
 	padding-left: 22px;
 }
+#lnk_docs a {
+	background: url('../img/icons/notes.png') top left no-repeat;
+	padding-left: 22px;
+}
 #lnk_contribute a {
 	background: url('../img/icons/user_comment.png') top left no-repeat;
 	padding-left: 22px;

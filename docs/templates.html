@@ -69,9 +69,8 @@
 	</p>
 
 	<pre>
-		$config->setTemplatePath($locwebsvnreal.'/templates/BlueGrey/');
-		$config->setTemplatePath($locwebsvnreal.'/templates/calm/', 'My Repository');
-	</pre>
+$config->setTemplatePath($locwebsvnreal.'/templates/BlueGrey/');
+$config->setTemplatePath($locwebsvnreal.'/templates/calm/', 'My Repository');</pre>
 
 	<p>WebSVN already includes a few templates, but you can also create your own. This document describes how.</p>
 
@@ -109,9 +108,7 @@
 		example:
 	</p>
 
-	<pre>
-		&lt;link rel="stylesheet" type="text/css" href="[websvn:locwebsvnhttp]/templates/tmptname/styles.css"/&gt;
-	</pre>
+	<pre>&lt;link rel="stylesheet" type="text/css" href="[websvn:locwebsvnhttp]/templates/tmptname/styles.css"/&gt;</pre>
 
 	<p>
 		The specific variables defined for individual template files (and those defined for all templates) are described under
@@ -159,17 +156,15 @@
 	</p>
 
 	<pre>
-		[websvn-test:<b>varname</b>]
-		...
-		[websvn-endtest]
-	</pre>
+[websvn-test:<b>varname</b>]
+...
+[websvn-endtest]</pre>
 	<pre>
-		[websvn-test:<b>varname</b>]
-		...
-		[websvn-else]
-		...
-		[websvn-endtest]
-	</pre>
+[websvn-test:<b>varname</b>]
+...
+[websvn-else]
+...
+[websvn-endtest]</pre>
 
 	<h3>Looping Construct</h3>
 
@@ -179,10 +174,9 @@
 	</p>
 
 	<pre>
-		[websvn-startlisting]
-		...
-		[websvn-endlisting]
-	</pre>
+[websvn-startlisting]
+...
+[websvn-endlisting]</pre>
 
 	<h3>Other Behaviors</h3>
 
@@ -323,10 +317,9 @@
 	</p>
 
 	<pre>
-		$config->useFlatView();
-		$config->useTreeView();
-		$config->useTreeIndex(true);
-	</pre>
+$config->useFlatView();
+$config->useTreeView();
+$config->useTreeIndex(true);</pre>
 
 	<p>
 		For examples of how to create an index with either a flat or tree view, consult
@@ -614,16 +607,12 @@
 	<p>These commands are used to display certain icons next to certain file types in the directory view.</p>
 
 	<pre>
-		[websvn-defineicons]
-		...
-		[websvn-enddefineicons]
-	</pre>
-	<pre>
-		[websvn-treenode]
-	</pre>
-	<pre>
-		[websvn-icon]
-	</pre>
+[websvn-defineicons]
+...
+[websvn-enddefineicons]</pre>
+
+	<pre>[websvn-treenode]</pre>
+	<pre>[websvn-icon]</pre>
 
 	<p>
 		Within the
@@ -638,9 +627,7 @@
 		for a particular extension use the syntax:
 	</p>
 
-	<pre>
-		.&lt;extension>=&lt;HTML code>
-	</pre>
+	<pre>.&lt;extension>=&lt;HTML code></pre>
 
 	<p>There are also some special filetypes:</p>
 
@@ -693,20 +680,19 @@
 	<p>Example from the BlueGrey template:</p>
 
 	<pre>
-		[websvn-defineicons]
-		dir=&lt;img align="middle" valign="center" src="[websvn:locwebsvnhttp]/templates/BlueGrey/folder.png" alt="[FOLDER]">
-		diropen=&lt;img align="middle" valign="center" src="[websvn:locwebsvnhttp]/templates/BlueGrey/folder-open.png" alt="[FOLDER]">
-		*=&lt;img align="middle" src="[websvn:locwebsvnhttp]/templates/BlueGrey/file.png" alt="[FILE]">
-		.c=&lt;img align="middle" src="[websvn:locwebsvnhttp]/templates/BlueGrey/filec.png" alt="[C-FILE]">
-		.h=&lt;img align="middle" src="[websvn:locwebsvnhttp]/templates/BlueGrey/fileh.png" alt="[H-FILE]">
-		.s=&lt;img align="middle" src="[websvn:locwebsvnhttp]/templates/BlueGrey/files.png" alt="[S-FILE]">
+[websvn-defineicons]
+dir=&lt;img align="middle" valign="center" src="[websvn:locwebsvnhttp]/templates/BlueGrey/folder.png" alt="[FOLDER]">
+diropen=&lt;img align="middle" valign="center" src="[websvn:locwebsvnhttp]/templates/BlueGrey/folder-open.png" alt="[FOLDER]">
+*=&lt;img align="middle" src="[websvn:locwebsvnhttp]/templates/BlueGrey/file.png" alt="[FILE]">
+.c=&lt;img align="middle" src="[websvn:locwebsvnhttp]/templates/BlueGrey/filec.png" alt="[C-FILE]">
+.h=&lt;img align="middle" src="[websvn:locwebsvnhttp]/templates/BlueGrey/fileh.png" alt="[H-FILE]">
+.s=&lt;img align="middle" src="[websvn:locwebsvnhttp]/templates/BlueGrey/files.png" alt="[S-FILE]">
 
-		i-node=&lt;img align="middle" border="0" width="24" height="26" src="[websvn:locwebsvnhttp]/templates/BlueGrey/i-node.png" alt="[NODE]">
-		t-node=&lt;img align="middle" border="0" width="24" height="26" src="[websvn:locwebsvnhttp]/templates/BlueGrey/t-node.png" alt="[NODE]">
-		l-node=&lt;img align="middle" border="0" width="24" height="26" src="[websvn:locwebsvnhttp]/templates/BlueGrey/l-node.png" alt="[NODE]">
-		e-node=&lt;img align="middle" border="0" width="24" height="26" src="[websvn:locwebsvnhttp]/templates/BlueGrey/e-node.png" alt="[NODE]">
-		[websvn-enddefineicons]
-	</pre>
+i-node=&lt;img align="middle" border="0" width="24" height="26" src="[websvn:locwebsvnhttp]/templates/BlueGrey/i-node.png" alt="[NODE]">
+t-node=&lt;img align="middle" border="0" width="24" height="26" src="[websvn:locwebsvnhttp]/templates/BlueGrey/t-node.png" alt="[NODE]">
+l-node=&lt;img align="middle" border="0" width="24" height="26" src="[websvn:locwebsvnhttp]/templates/BlueGrey/l-node.png" alt="[NODE]">
+e-node=&lt;img align="middle" border="0" width="24" height="26" src="[websvn:locwebsvnhttp]/templates/BlueGrey/e-node.png" alt="[NODE]">
+[websvn-enddefineicons]</pre>
 
 	<h3><a name="log.tmpl"></a>log.tmpl</h3>
 

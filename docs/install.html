@@ -209,9 +209,7 @@
 		with WebSVN. To use it, just make sure config.php has this line uncommented:
 	</p>
 
-	<pre>
-		$config->useGeshi();
-	</pre>
+	<pre>$config->useGeshi();</pre>
 
 	<p>
 		Alternatively, you can use <a href="http://www.gnu.org/software/enscript/">Enscript</a> 1.6
@@ -220,9 +218,7 @@
 		and then uncomment this line:
 	</p>
 
-	<pre>
-		$config->useEnscript();
-	</pre>
+	<pre>$config->useEnscript();</pre>
 
 	<h2><a name="multiviews"></a>Multiviews</h2>
 
@@ -268,22 +264,19 @@
 	</p>
 
 	<pre>
-		&lt;Directory "/var/apache/htdocs"&gt;
-			Options Indexes FollowSymLinks MultiViews
-			AllowOverride None
-			Order allow,deny
-			Allow from all
-		&lt;/Directory&gt;
-	</pre>
+&lt;Directory "/var/apache/htdocs"&gt;
+	Options Indexes FollowSymLinks MultiViews
+	AllowOverride None
+	Order allow,deny
+	Allow from all
+&lt;/Directory&gt;</pre>
 
 	<p>
 		Alternatively, you can include the following line in the directory's <code>.htaccess</code>
 		file, assuming that the appropriate AllowOverrides directive is set up.
 	</p>
 
-	<pre>
-		Options MultiViews
-	</pre>
+	<pre>Options MultiViews</pre>
 
 	<p>
 		Let's suppose that WebSVN is installed in a directory called <code>websvn</code> within the
@@ -300,9 +293,7 @@
 		this line:
 	</p>
 
-	<pre>
-		$config->useMultiViews();
-	</pre>
+	<pre>$config->useMultiViews();</pre>
 
 	<p>
 		If all has gone well, repositories should now by accessible at
@@ -315,9 +306,7 @@
 		<code>http://example.com/</code>, you need to add another directive to the .htaccess file:
 	</p>
 
-	<pre>
-		DirectoryIndex browse.php
-	</pre>
+	<pre>DirectoryIndex browse.php</pre>
 
 	<h2><a name="authentication"></a>Access rights and authentication</h2>
 
@@ -359,9 +348,7 @@
 		Subversion access file to control access. Add this line to your config.php file:
 	</p>
 
-	<pre>
-		$config->useAccessFile('/path/to/accessfile');
-	</pre>
+	<pre>$config->useAccessFile('/path/to/accessfile');</pre>
 
 	<p>
 		Note that if your access file gives read access to, for example, path

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://www.websvn.info/news.atom.xml</id>
+	<id>https://websvnphp.github.io/news.atom.xml</id>
 	<title xml:lang="en-en">WebSVN news</title>
 	<updated>2011-06-27T00:00:00+02:00</updated>
 	<author>
 		<name>WebSVN</name>
-		<uri>http://www.websvn.info</uri>
+		<uri>https://websvnphp.github.io</uri>
 	</author>
 	<link rel="alternate" href="https://websvnphp.github.io/news/index.html" />
 	<link rel="self" href="https://websvnphp.github.io/news.atom.xml" />

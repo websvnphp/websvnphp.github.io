@@ -1,60 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemaps/0.9 http://www.sitemaps.org/schemas/sitemaps/sitemap.xsd"
->
-	<url>
-		<loc>https://websvnphp.github.io/</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-1-0-released.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-1-coming-up-soon.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-2-0-released.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-2-1-released.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-3-0-coming-soon.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-3-0-released.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-3-1-released.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-3-2-released.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-2-3-3-released.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/news/websvn-has-a-new-home.html</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/features/</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/contribute/</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/download/</loc>
-	</url>
-		<url>
-		<loc>https://websvnphp.github.io/docs/</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/links/</loc>
-	</url>
-	<url>
-		<loc>https://websvnphp.github.io/imprint.html</loc>
-	</url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://websvnphp.github.io/</loc>
+  <lastmod>2020-09-20T16:00:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://websvnphp.github.io/index.html</loc>
+  <lastmod>2020-09-20T16:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://websvnphp.github.io/features/index.html</loc>
+  <lastmod>2020-09-20T16:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://websvnphp.github.io/docs/index.html</loc>
+  <lastmod>2020-09-20T16:00:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://websvnphp.github.io/imprint.html</loc>
+  <lastmod>2020-09-20T16:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://websvnphp.github.io/docs/install.html</loc>
+  <lastmod>2020-09-20T16:00:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://websvnphp.github.io/docs/templates.html</loc>
+  <lastmod>2020-09-20T16:00:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
